@@ -1,0 +1,6 @@
+@CRUDconSQL_HostAddress = http://localhost:5236
+
+GET {{CRUDconSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
